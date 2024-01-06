@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proje_Sinif.kullanici" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.KullaniciYonetim" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAAAAAAAAEAAAAAAAABAAAAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.magaza" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAA=</HashCode>
+      <FileName>magaza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.kategori" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAACAAAIACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>magaza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.urun" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>magaza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.Satis" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>satis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.SatisTalep" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>satis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.Siparis" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>siparis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.SiparisTalep" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAgAAAAA=</HashCode>
+      <FileName>siparis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.stok" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAEAAAAEAAAAAAEAQAAAAAABIAAAAAAAAAA=</HashCode>
+      <FileName>stok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.Stoklar" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>stok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.Talep" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAQACAAAAACAAAEABgACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>talep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje_Sinif.TalepTakip" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAAAAAAAAAAhAAAAAAAAAAAAAAUBAAAAAAAQA=</HashCode>
+      <FileName>taleptakip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
