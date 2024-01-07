@@ -42,7 +42,7 @@
             btnKulControl.Name = "btnKulControl";
             btnKulControl.Size = new Size(288, 123);
             btnKulControl.TabIndex = 2;
-            btnKulControl.Text = "Kullanıcı İşlemleri";
+            btnKulControl.Text = "Kullanıcı/Ürün İşlemleri";
             btnKulControl.UseVisualStyleBackColor = true;
             btnKulControl.Click += btnKulControl_Click;
             // 
